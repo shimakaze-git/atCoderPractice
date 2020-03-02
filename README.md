@@ -3,6 +3,8 @@ atCoderの練習用 or サンプルコード集のリポジトリ.
 
 ## AtCoder Beginners Selection
 
+初心者用の問題集.
+
 - [PracticeA - Welcome to AtCoder](https://atcoder.jp/contests/abs/tasks/practice_1)
 - [ABC086A - Product](https://atcoder.jp/contests/abs/tasks/abc086_a)
 - [ABC081A - Placing Marbles](https://atcoder.jp/contests/abs/tasks/abc081_a)
@@ -14,3 +16,4 @@ atCoderの練習用 or サンプルコード集のリポジトリ.
 - [ABC085C - Otoshidama](https://atcoder.jp/contests/abs/tasks/abc085_c)
 - [ABC049C - 白昼夢](https://atcoder.jp/contests/abs/tasks/arc065_a)
 - [ABC086C - Traveling](https://atcoder.jp/contests/abs/tasks/arc089_a)
+
